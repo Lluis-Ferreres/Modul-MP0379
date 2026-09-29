@@ -4,18 +4,18 @@
 
 **Avantatges**
 
-> Alta disponibilitat de serveis
-> Facilitat de desplegament
-> Reducció de la dependència del control humà davant de necessitats o problemes (es resolen de forma automàtica)
-> Escalabilitat i flexibilitat per moments puntuals
-> Connectivitat en xarxa i accessibilitat
-> Recuperació davant desastres (atacs, mal funcionament del maquinari, backups)
+> - Alta disponibilitat de serveis  
+> - Facilitat de desplegament  
+> - Reducció de la dependència del control humà davant de necessitats o problemes (es resolen de forma automàtica)  
+> - Escalabilitat i flexibilitat per moments puntuals  
+> - Connectivitat en xarxa i accessibilitat  
+> - Recuperació davant desastres (atacs, mal funcionament del maquinari, backups)
 
 **Inconvenients**
-> Factures elevades
-> Impacte mediambiental
-> Les dades són gestionades per tercers
-> Dependència de la plataforma
+> - Factures elevades  
+> - Impacte mediambiental  
+> - Les dades són gestionades per tercers  
+> - Dependència de la plataforma
 
 ### Què és el núvol
 
