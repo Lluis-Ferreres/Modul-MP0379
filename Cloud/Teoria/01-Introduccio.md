@@ -16,6 +16,7 @@
 > - Impacte mediambiental  
 > - Les dades són gestionades per tercers  
 > - Dependència de la plataforma
+> - Dependència de connexió en xarxa, habitualment Internet
 
 ### Què és el núvol
 
