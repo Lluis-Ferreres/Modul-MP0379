@@ -25,3 +25,8 @@ El centre de dades es compon de servidors d'alt rendiment, amb grans quantitats 
 Com a obligació, l'empresa que ofereix aquest tipus d'eines ha de garantir la separació d'espais per augmentar la seguretat i que no es vegin afectades les operacions d'un client amb les d'un altre. Les còpies de seguretat també s'han de garantir, així com la disponibilitat 24/7 de tots els serveis contractats.
 
 Sobre el paper es tracta d'una molt bona alternativa per poder formar-se o desenvolupar un negoci, però té uns costs ocults que molta gent no va preveure en un primer moment i que amb el temps ha provocat un retrocès per part dels usuaris per tornar cap al model anterior, on tot es gestionava en local. Així s'ha acabat mostrant més compensat un model híbrid, on una part operativa i de connexions es realitza al núvol i la part d'emmagatzemar dades del negoci es realitza en local.
+
+### Què ens ofereix el núvol per poder treballar
+> - **IAAS** (**I**nfrastructure **A**s **A** **S**ervice)
+> - **PAAS** (**P**latform **A**s **A** **S**ervice)  
+> - **SAAS** (**S**oftware **A**s **A** **S**ervice)
