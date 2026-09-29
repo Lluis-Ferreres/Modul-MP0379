@@ -31,3 +31,5 @@ Sobre el paper es tracta d'una molt bona alternativa per poder formar-se o desen
 > - **IAAS** (**I**nfrastructure **A**s **A** **S**ervice)
 > - **PAAS** (**P**latform **A**s **A** **S**ervice)  
 > - **SAAS** (**S**oftware **A**s **A** **S**ervice)
+>
+[Ampliació sobre serveis](https://github.com/Lluis-Ferreres/Modul-MP0379/blob/main/Cloud/Teoria/02-Serveis.md "Ampliació dels serveis")
