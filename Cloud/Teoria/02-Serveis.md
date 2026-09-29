@@ -22,4 +22,18 @@ El seu èxit es troba en que no cal invertir temps i esforços a preparar aquest
 Exemples: AWS Elastic Beanstalk, Heroku, Google App Engine
 
 ### SAAS
-Proporciona aplicacions llestes per utilitzar pels usuaris finals.
+Proporciona aplicacions llestes per utilitzar pels usuaris finals. Algunes de les més conegudes són plataformes de gestió de correu electrònic, emmagatzematge de fitxers remot, ofimàtica, etc.
+
+Exemples: Gmail, Dropbox, Microsoft 365
+
+### Quina opció triar
+Podem posar uns exemples per tal d'ajudar-nos a entendre millor com podem triar una o altra opció:
+
+- IAAS equival a llogar un restaurant (edifici) i posarem tots els mobles. Nosaltres l'emplenarem amb el menjar que voldrem i l'haurem de cuinar.
+- PAAS equival a llogar un restaurant d'una franquícia coneguda però et porten el que has de cuinar, només cal començar a cuinar allò que necessitem.
+- SAAS equival a demanar el menjar a domicili, t'ho donen tot fet.
+
+Ara que ens ha quedat més clar:
+- IAAS encaixa millor amb empreses que volen controlar tot el que gestionen, fent les millores que calgui retocant tot allò que considerin necessari
+- PAAS és ideal per desenvolupadors, i més encara si es tracta d'aplicacions que treballen en xarxa
+- SAAS és la solució per aquelles empreses poc tècniques però que han de donar serveis en xarxa per augmentar visibilitat i presència al mercat
